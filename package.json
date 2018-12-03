@@ -1,0 +1,43 @@
+{
+  "name": "epitech-jsproject-back",
+  "version": "1.0.0",
+  "description": "epitech-jsproject-back",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maregas/epitech-jsproject-back.git"
+  },
+  "author": "Mathéo MSA & Maxime Liège",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maregas/epitech-jsproject-back/issues"
+  },
+  "homepage": "https://github.com/Maregas/epitech-jsproject-back#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "i18n": "^0.8.3",
+    "jsonwebtoken": "^8.3.0",
+    "morgan": "^1.9.1",
+    "sequelize": "^4.39.0",
+    "socket.io": "^2.1.1",
+    "sqlite3": "^4.0.2",
+    "uuid": "^3.3.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-plugin-node": "^7.0.1",
+    "prettier": "1.14.3"
+  }
+}

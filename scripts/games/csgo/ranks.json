@@ -1,0 +1,93 @@
+{
+    "gameId": 2,
+    "ranks": [{
+            "name": "The Global Elite",
+            "position": 1,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup18.png"
+        },
+        {
+            "name": "Supreme Master First Class",
+            "position": 2,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup17.png"
+        },
+        {
+            "name": "Legendary Eagle Master",
+            "position": 3,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup16.png"
+        },
+        {
+            "name": "Legendary Eagle",
+            "position": 4,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup15.png"
+        },
+        {
+            "name": "Distinguished Master Guardian",
+            "position": 5,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup14.png"
+        },
+        {
+            "name": "Master Guardian Elite",
+            "position": 6,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup13.png"
+        },
+        {
+            "name": "Master Guardian 2",
+            "position": 7,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup12.png"
+        },
+        {
+            "name": "Master Guardian 1",
+            "position": 8,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup11.png"
+        },
+        {
+            "name": "Gold Nova Master",
+            "position": 9,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup10.png"
+        },
+        {
+            "name": "Gold Nova 3",
+            "position": 10,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup9.png"
+        },
+        {
+            "name": "Gold Nova 2",
+            "position": 11,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup8.png"
+        },
+        {
+            "name": "Gold Nova 1",
+            "position": 12,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup7.png"
+        },
+        {
+            "name": "Silver Elite Master",
+            "position": 13,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup6.png"
+        }, {
+            "name": "Silver Elite",
+            "position": 14,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup5.png"
+        },
+        {
+            "name": "Silver 4",
+            "position": 15,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup4.png"
+        },
+        {
+            "name": "Silver 3",
+            "position": 16,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup3.png"
+        },
+        {
+            "name": "Silver 2",
+            "position": 17,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup2.png"
+        },
+        {
+            "name": "Silver 1",
+            "position": 17,
+            "icon_url": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/0e457516ba13817a45b6c2a1d262fe7d0599bcbc/csgo/pak01_dir/resource/flash/econ/status_icons/skillgroup1.png"
+        }
+    ]
+}
